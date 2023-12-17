@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Editor-CodePen/static/css/main.baeacb68.css",
+    "main.js": "/Editor-CodePen/static/js/main.bebed1fa.js",
+    "index.html": "/Editor-CodePen/index.html",
+    "main.baeacb68.css.map": "/Editor-CodePen/static/css/main.baeacb68.css.map",
+    "main.bebed1fa.js.map": "/Editor-CodePen/static/js/main.bebed1fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baeacb68.css",
+    "static/js/main.bebed1fa.js"
+  ]
+}
